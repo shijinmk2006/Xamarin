@@ -1,0 +1,16 @@
+D:\Projects\PetSeller\PetSeller\PetSeller\bin\Debug\netstandard2.0\PetSeller.deps.json
+D:\Projects\PetSeller\PetSeller\PetSeller\bin\Debug\netstandard2.0\PetSeller.dll
+D:\Projects\PetSeller\PetSeller\PetSeller\bin\Debug\netstandard2.0\PetSeller.pdb
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\PetSeller.csprojAssemblyReference.cache
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\PetSeller.csproj.CoreCompileInputs.cache
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\PetSeller.AssemblyInfoInputs.cache
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\PetSeller.AssemblyInfo.cs
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\PetSeller.dll
+D:\Projects\PetSeller\PetSeller\PetSeller\obj\Debug\netstandard2.0\PetSeller.pdb
